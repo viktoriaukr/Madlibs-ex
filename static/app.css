@@ -1,0 +1,12 @@
+#madlibs div{
+  margin: 10px;
+  display: grid;
+  width: 30vh;
+  font-size: larger;
+  font-weight: bold;
+}
+
+h1, button, p {
+  margin-left: 10px;
+}
+
